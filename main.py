@@ -21,9 +21,9 @@ from aiogram.types import (
 
 # --- Конфигурация ---
 # ❗️ Вставьте сюда токен вашего бота, полученный от @BotFather
-BOT_TOKEN = "4"
+BOT_TOKEN = "8347945229:AAGJTTAV3sJTk2HOq_kfqazwI_MjB9UDbkU"
 # ❗️ Вставьте сюда ваш Telegram User ID, чтобы иметь доступ к команде /stats
-ADMIN_ID = 0  # Замените 0 на ваш ID
+ADMIN_ID = 7692185941  # Замените 0 на ваш ID
 
 # Настройка точности для финансовых вычислений
 getcontext().prec = 18
